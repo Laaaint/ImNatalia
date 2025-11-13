@@ -11,7 +11,9 @@
 <br>Bem-vindos ao meu espaço!<br>
 <br>Espero que possamos construir coisas incríveis juntos.<br>
 
-<br>In English:<br><br>A developer in training and future data scientist, driven by curiosity, creativity, and the desire to turn ideas into real solutions. I’m passionate about technology, games, crafts, animals, and the whole geek universe that sparks imagination.<br>
+<br>In English: Hi! I'm Natália Rosa!<br>
+
+<br>A developer in training and future data scientist, driven by curiosity, creativity, and the desire to turn ideas into real solutions. I’m passionate about technology, games, crafts, animals, and the whole geek universe that sparks imagination.<br>
 
 <br>I’m currently diving deep into data analysis, machine learning, and artificial intelligence, with a special focus on Python, the language I study the most. I’ve had the opportunity to collaborate on development projects with friends, working on testing and debugging applications. Although my journey began in web development, it was in the world of data that I truly found my path.<br>
 
